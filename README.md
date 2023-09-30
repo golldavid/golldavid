@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on my master thesis about the analysis of learning dynamics in climate coalition games at the Potsdam Institut for Climate Impact Research under supervision of Dr. Jobst Heitzig.
+- 🔭 I'm currently working on my master thesis at the Potsdam Institut for Climate Impact Research under supervision of Dr. Jobst Heitzig.
+  topic: "analysis of learning dynamics in climate coalition games"
 - 📫 david.ben.goll[at]gmail.com
 
 <!--
