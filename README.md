@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on my master thesis about the analysis of learning dynamics in climate coalition games at the Potsdam Institut for Climate Impact Research under supervision of Dr. Jobst Heitzig.
-- 📫 How to reach me: david.ben.goll[at]gmail.com
+- 📫 david.ben.goll[at]gmail.com
 
 <!--
 **golldavid/golldavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
