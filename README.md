@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on my master thesis at the Potsdam Institut for Climate Impact Research (PIK) under supervision of Dr. Jobst Heitzig:
-  "analysis of learning dynamics in climate coalition games"
+- I'm currently finalising my master thesis at the Potsdam Institute for Climate Impact Research (PIK):
+  "Analysis of Multi-Agent Reinforcement Learning from a Statistical Physics Perspective"
+- The code of my master thesis will be made publicly available in the coming days
 
 <!--
 **golldavid/golldavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
