@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I'm currently finalising my master thesis at the Potsdam Institute for Climate Impact Research (PIK):
+- I've just finished my master thesis at the Potsdam Institute for Climate Impact Research (PIK):
   "Analysis of Multi-Agent Reinforcement Learning from a Statistical Physics Perspective"
-- The code of my master thesis will be made publicly available in the coming days
+- The code of my master thesis can be found in the public_master_thesis_code repo.
 
 <!--
 **golldavid/golldavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
