@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- I've just finished my master thesis at the Potsdam Institute for Climate Impact Research (PIK):
+- I've just finished my master thesis in Physics at the Humboldt University of Berlin:
   "Analysis of Multi-Agent Reinforcement Learning from a Statistical Physics Perspective"
-- The code of my master thesis can be found in the public_master_thesis_code repo.
+- The results were partly published in https://arxiv.org/abs/2501.00160
+- The code for the paper can be found in the repo PaperCompanion_DetModelMAQL
 
 <!--
 **golldavid/golldavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
