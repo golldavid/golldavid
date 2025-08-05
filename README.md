@@ -5,6 +5,8 @@
 - The results were partly published in https://arxiv.org/abs/2501.00160
 - The code for the paper can be found in the repo PaperCompanion_DetModelMAQL
 
+- For more info about me and my projects, visit my [website](https://golldavid.github.io/personal-website/)
+
 <!--
 **golldavid/golldavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
